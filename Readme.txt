@@ -1,0 +1,1 @@
+The lecturer gave us 2 assignments in our first project. So I decided to show them in separate repos. Here you can see the codes for the first assignment.
